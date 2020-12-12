@@ -1,4 +1,4 @@
-# Secure User
+# Authenticate User Spring
 
 A small web app demonstrating user authentication based on Springs security component.
 
